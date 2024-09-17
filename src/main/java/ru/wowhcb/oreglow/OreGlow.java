@@ -13,7 +13,7 @@ import java.io.IOException;
 
 
 public class OreGlow implements ModInitializer {
-	public static final String MOD_ID = "ore-glow";
+	public static final String MOD_ID = "oreglow";
 
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 

@@ -16,7 +16,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"ore-glow" {
+		"oreglow" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}
